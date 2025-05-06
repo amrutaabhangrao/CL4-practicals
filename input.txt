@@ -1,0 +1,3 @@
+Hadoop is an open-source framework.
+Hadoop allows for the distributed processing of large data sets.
+The Hadoop framework is based on Java.
